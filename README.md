@@ -30,7 +30,7 @@ It provides information about user's flight, taxi services, public transport, pa
 
 You can download the APK file for this app from the following link:
 
-[Download](build\app\outputs\flutter-apk\app-release.apk)
+[Download](assets\app-release.apk)
 
 
 
